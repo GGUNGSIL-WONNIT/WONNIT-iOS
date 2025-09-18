@@ -2,9 +2,9 @@
 
 유휴시간을 공간 공유로 채우는 지역 상권 활성화 서비스
 
-![TestFlight](https://img.shields.io/badge/TestFlight-v1-0470b9?logo=app-store&logoColor=white)
+![TestFlight](https://img.shields.io/badge/TestFlight-v1-0470b9?logo=app-store&logoColor=white) 
 
-![표지](https://github.com/user-attachments/assets/f8ba1689-3eb6-433d-b94d-875f29ad5cb8)
+![표지](https://github.com/user-attachments/assets/85022d5d-cb6a-4f04-b510-8324f0b80618)
 
 ![기능1](https://github.com/user-attachments/assets/691edad7-8c10-4762-950f-fd82a3633cdd)
 
